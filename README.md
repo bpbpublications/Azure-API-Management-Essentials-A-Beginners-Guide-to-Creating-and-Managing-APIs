@@ -1,2 +1,2 @@
-# Azure API Management Essentials A Beginners Guide to Creating and Managing APIs
- Azure API Management Essentials: A Beginner's Guide to Creating and Managing APIs, by BPB Publications
+# Learning Azure API Management
+ Learning Azure API Management, by BPB Publications
